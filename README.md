@@ -11,7 +11,7 @@
 
 [<img align="left" alt="asim.mahmudov | LinkedIn" width="22px" src="https://github.com/asimmakhmudov/asimmakhmudov/blob/master/LinkedIn.png" />](https://www.linkedin.com/in/asim-mahmudov-626371206/) </br>
 
-<p><img algin= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimmakhmudov&show_icons=true&locale=en&layout=compact" alt="asimmakhmudov" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimmakhmudov&show_icons=true&locale=en&layout=compact" alt="asimmakhmudov" /></p>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=asimmakhmudov&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="asimmakhmudov" /></a>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=asimmakhmudov&" alt="asimmakhmudov" /></p>
