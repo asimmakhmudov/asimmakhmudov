@@ -11,11 +11,9 @@
 
 [<img align="left" alt="asim.mahmudov | LinkedIn" width="22px" src="https://github.com/asimmakhmudov/asimmakhmudov/blob/master/LinkedIn.png" />](https://www.linkedin.com/in/asim-mahmudov-626371206/) </br>
 
-<p><img align="left" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimmakhmudov&show_icons=true&locale=en&layout=compact" alt="asimmakhmudov" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimmakhmudov&show_icons=true&locale=en&layout=compact" alt="asimmakhmudov" /></p> </br>
 
-<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=asimmakhmudov&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="asimmakhmudov" /></a>
-
-<p><img align="left" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=asimmakhmudov&" alt="asimmakhmudov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimmakhmudov&" alt="asimmakhmudov" /></p>
 <a href="https://github.com/asimmakhmudov">
   
 
