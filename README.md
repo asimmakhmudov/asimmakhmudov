@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asim Mahmudov</h1>
-<img align="right" alt="GIF" src="https://github.com/asimmakhmudov/asimmakhmudov/blob/master/code.gif" width="350" height="330" />
+<img align="right" alt="GIF" src="https://github.com/asimmakhmudov/asimmakhmudov/blob/master/code.gif" width="400" height="330" />
 
 ### Contact with me: </br>
 [<img align="left" alt="asim.makhmudzadeh | Instagram" width="22px" src="https://github.com/asimmakhmudov/asimmakhmudov/blob/master/instagram-logo.svg" />](https://www.instagram.com/asim.makhmudzadeh/)
