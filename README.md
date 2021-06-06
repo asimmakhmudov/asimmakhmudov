@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/asimmakhmudov/asimmakhmudov/blob/master/code.gif" width="420" height="400" /> 
+<img align="right" alt="GIF" src="https://github.com/asimmakhmudov/asimmakhmudov/blob/master/code.gif" width="420" height="380" /> 
 
 ### My name is Asim. I'm a Computer Engineer student
 
