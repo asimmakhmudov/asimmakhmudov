@@ -20,6 +20,6 @@
 |Github Statistics|Streaks|Languages|
 |-|-|-|
 |[![Asim's github stats](https://github-readme-stats.vercel.app/api?username=asimmakhmudov&show_icons=true&theme=dark&hide_title=true)](https://github.com/asimmakhmudov)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=asimmakhmudov&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asimmakhmudov&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/asimmakhmudov)
-![Profile views](https://gpvc.arturio.dev/asimmakhmudov)
+
 
 
