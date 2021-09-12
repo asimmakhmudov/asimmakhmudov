@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Python**
 - 🤝 I’m looking for help with **Java OOP**
-- 📫 How to reach me **asimmahmudov18@gmail.com** </br> </br>
+- 📫 How to reach me **asimmahmudov18@gmail.com** </br> 
 
 
 |Github Statistics|Streaks|Languages|
