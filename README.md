@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on **JavaScript**
 - 🤝 I’m looking for help with **JavaScript**
 - 📫 How to reach me **asimmahmudov18@gmail.com**
-- 📝 I regularly write articles on [https://medium.com/@asimmahmudov18](https://medium.com/@asimmahmudov18)
+- 📝 I regularly write articles on [https://medium.com/@asimmahmudov18](https://medium.com/@asimmahmudov)
 
 
 <h3 align="left">Connect with me:</h3>
