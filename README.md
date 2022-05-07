@@ -56,4 +56,10 @@
 |[![Asim's github  stats](https://github-readme-stats.vercel.app/api?username=asimmakhmudov&show_icons=true&theme=dark&hide_title=true)](https://github.com/asimmakhmudov)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=asimmakhmudov&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asimmakhmudov&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/asimmakhmudov)
 
 
+<!--  -->
 
+<br/>
+
+<a href="https://github.com/asimmakhmudov/github-readme-activity-graph"><img alt="Asim Mhmudov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asimmakhmudov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
