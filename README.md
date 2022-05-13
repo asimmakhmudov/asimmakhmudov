@@ -34,12 +34,13 @@
 - 📫 How to reach me **asimmahmudov18@gmail.com**
 - 📝 I regularly write articles on [https://medium.com/@asimmahmudov18](https://medium.com/@asimmahmudov)
 
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asim-mahmudov-626371206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asim-mahmudov-626371206/" height="30" width="40" /></a>
-<a href="https://medium.com/@asimmahmudov18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@asimmahmudov18" height="40" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/mahmudovasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mahmudovasim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asimmahmudov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asimmahmudov/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/asim.mahmudov.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asim.mahmudov.92" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@asimmahmudov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@asimmahmudov" height="30" width="40" /></a>
 </p>
 
 
