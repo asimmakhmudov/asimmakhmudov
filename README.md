@@ -29,10 +29,10 @@
 </br>
 
 
-- 🔭 I’m currently working on **React.js**
-- 🤝 I’m looking for help with **Node.js**
+- 🔭 I’m currently working on React.js
+- 🤝 I’m looking for help with Node.js
 - 📫 How to reach me **asimmahmudov18@gmail.com**
-- 📝 I regularly write articles on [https://medium.com/@asimmahmudov18](https://medium.com/@asimmahmudov)
+- 📝 I regularly write articles on [@asimmahmudov](https://medium.com/@asimmahmudov)
 
 
 <h3 align="left">Connect with me:</h3>
