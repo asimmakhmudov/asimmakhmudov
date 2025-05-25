@@ -1,4 +1,21 @@
-<h2 align="center">Hi 👋, I'm Asim Mahmudov</h1>
+<h2 align="center">Hi 👋, I'm Asim Mahmudov</h2>
+<p align="center">
+  <a href="https://www.asimmahmudov.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/asimmahmudov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/asimmahmudov" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge" alt="Kaggle" />
+  </a>
+  <a href="mailto:asimmahmudov18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" alt="Email" />
+  </a>
+</p>
+
+
+
 <table>
   <tr>
     <td width="60%">
@@ -46,6 +63,10 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimmahmudov&theme=dark" width="90%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimmahmudov&layout=compact&theme=github_dark" width="90%"/>
 
 </td>
 </tr>
